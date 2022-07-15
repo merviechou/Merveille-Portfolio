@@ -121,3 +121,24 @@ nav ul li a:hover:after{
     margin-top: 25px;
     margin-bottom: 30px;
 }
+
+@media screen and (max-width: 480px) {
+    nav ul li, .profile-image{
+        display: none;
+    }
+
+    .bn{
+        display: none;
+    }
+    .logo{
+        display: table;
+        margin: auto;
+    }
+    .wrapper{
+        text-align: center;
+    }
+    .content h1{
+        font-size: 2rem;
+    }
+}
+

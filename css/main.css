@@ -125,7 +125,7 @@ nav ul li a:hover:after {
   nav ul li, .profile-image {
     display: none;
   }
-  .bn {
+  .contact-btn {
     display: none;
   }
   .logo {
@@ -137,5 +137,11 @@ nav ul li a:hover:after {
   }
   .content h1 {
     font-size: 2rem;
+  }
+  .content p {
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 24px;
+    display: inline;
   }
 }/*# sourceMappingURL=main.css.map */

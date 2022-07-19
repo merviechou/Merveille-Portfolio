@@ -210,17 +210,17 @@ span {
     margin-bottom: 10px;
   }
   .about-text h5 {
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     font-size: 11px;
-    margin-bottom: 15px;
+    margin-bottom: 14px;
   }
   .about-text p {
     line-height: 18px;
-    font-size: 15px;
-    margin-bottom: 20px;
+    font-size: 12px;
+    margin-bottom: 10px;
   }
   .about-text {
-    width: 150px;
+    width: 250px;
   }
   .main {
     align-items: center;

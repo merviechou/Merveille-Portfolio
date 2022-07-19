@@ -199,7 +199,7 @@ span{
 @media screen and (max-width: 480px) {
     .about img {
         height: auto;
-        width: 200px;
+        width: 160px;
     }
     .about-text h2{
         color: red;
@@ -209,20 +209,18 @@ span{
     .about-text h5{
     
         letter-spacing: 1px;
-        font-size: 9px;
+        font-size: 11px;
         margin-bottom: 15px;
     }
     .about-text p{
-        color: black;
-        letter-spacing: 1px;
-        line-height: 15px;
+        line-height: 18px;
         font-size: 15px;
         margin-bottom: 20px;
-        justify-content: space-around;
-        align-items: baseline;
     }
     .about-text{
-        width: 300px;
-        padding: 20px;
+        width: 150px;
+    }
+    .main{
+        align-items: center;
     }
 }

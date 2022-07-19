@@ -190,8 +190,6 @@ span{
     color: red;
 }
 .about-text p{
-    color: black;
-    letter-spacing: 1px;
     line-height: 28px;
     font-size: 18px;
     margin-bottom: 45px;
@@ -199,7 +197,7 @@ span{
 @media screen and (max-width: 480px) {
     .about img {
         height: auto;
-        width: 160px;
+        width: 100px;
     }
     .about-text h2{
         color: red;
@@ -219,8 +217,5 @@ span{
     }
     .about-text{
         width: 250px;
-    }
-    .main{
-        align-items: center;
     }
 }

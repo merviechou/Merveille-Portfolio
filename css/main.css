@@ -197,27 +197,27 @@ span {
   margin-bottom: 45px;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 480px) {
   .about img {
     height: auto;
     width: 10rem;
   }
   .about-text h2 {
     color: red;
-    font-size: 2rem;
-    margin-bottom: 0.7rem;
+    font-size: 0.1rem;
+    margin-bottom: 0.2rem;
   }
   .about-text h5 {
     letter-spacing: 0.2rem;
-    font-size: 0.9rem;
-    margin-bottom: 0.7rem;
+    font-size: 0.7rem;
+    margin-bottom: 0.5rem;
   }
   .about-text p {
-    line-height: 1.5rem;
-    font-size: 1rem;
+    line-height: 1.2rem;
+    font-size: 0.8rem;
     margin-bottom: 0.5rem;
   }
   .about-text {
-    width: 15rem;
+    width: 10rem;
   }
 }/*# sourceMappingURL=main.css.map */
